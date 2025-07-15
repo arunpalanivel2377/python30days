@@ -5,6 +5,7 @@ This is a fun **Python command-line game** where the player tries to guess a ran
 
 ---
 
+
 ## ✅ Features
 
 - 🔢 Random number generation (1–100)
@@ -43,6 +44,8 @@ def random_number():
             print("Provide valid input")
     print("You took " + str(attempts) + " attempts")
     print("Thank you for playing")
+
+
 
 
 random_number()
